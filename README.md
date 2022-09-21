@@ -1,7 +1,11 @@
-Timer de contagem regressiva
+# Timer de contagem regressiva
 
-https://y5bwl0.csb.app/
+> Projeto construído da aula 2 do Desafio Programando na prática da Driven Education.
 
-https://lineeiko.github.io/Timer-de-contagem-regressiva/
+[🔗 Clique aqui para acessar](https://lineeiko.github.io/Timer-de-contagem-regressiva/)
 
+## 🛠 Tecnologias
 
+- HTML
+- CSS
+- Git e Github
